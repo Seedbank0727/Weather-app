@@ -1,2 +1,1 @@
-# Weather-app
-연습
+"# Weather-app" 
